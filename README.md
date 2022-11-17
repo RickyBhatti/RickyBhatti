@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<p>
-		<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RickyBGamez"/>
+		<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RickyBhatti"/>
 		<br/>
-		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyBGamez&layout=compact&hide_border=true&bg_color=ffffff&langs_count=999">
+		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyBhatti&layout=compact&hide_border=true&bg_color=ffffff&langs_count=999">
 		<br/>
-		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=RickyBGamez&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true">
+		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=RickyBhatti&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true">
 	</p>
 </div>
