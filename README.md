@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 	<p>
 		<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RickyBhatti"/>
 		<br/>
-		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyBhatti&layout=compact&theme=dark">
+		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyBhatti&layout=compact">
 		<br/>
-		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=RickyBhatti&count_private=true&show_icons=true&theme=dark">
+		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=RickyBhatti&count_private=true&show_icons=true">
 	</p>
 </div>
