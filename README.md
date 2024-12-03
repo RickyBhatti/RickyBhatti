@@ -7,6 +7,9 @@ I'm a passionate software developer with a strong focus on backend development.
 My journey started in 2013, building mods and resources for games I loved playing. 🎮  
 Since then, I've been diving deep into coding, creating cool tools, and learning something new daily. 🌱  
 
+While you'll find a few of my projects here on GitHub, most of my work remains private. 🔒  
+That said, the public projects here offer a glimpse into the work I enjoy creating — though not the full picture!  
+
 When I'm not coding, you'll probably find me:  
 🚗 Going for random drives  
 🏋️‍♂️ Hitting the gym  
