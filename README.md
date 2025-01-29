@@ -37,5 +37,5 @@ Some of my earlier creations have reached over 100,000+ users and developed an a
 ---
 
 Feel free to check out my website for more information.  
-Thanks for stopping by — take it easy! 🙂
+Thanks for stopping by — take it easy! 🙂  
 P.S. This is basically just copy-pasted from my website, and I let AI handle the formatting — too lazy to do it myself. 😆
